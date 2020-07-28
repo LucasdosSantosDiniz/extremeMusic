@@ -1,0 +1,232 @@
+{
+  "categorias": [
+    {
+      "titulo": "AS MAIS TOCADAS NO BRASIL E NO MUNDO",
+      "cor": "#FF0000", 
+      "videos": [
+        {
+          "titulo": "MC Zaac, Anitta, Tyga - Desce Pro Play (PA PA PA) (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=OEtZ4eE3bA0"
+        },
+        {
+          "titulo": "Gusttavo Lima – A Gente Fez Amor - DVD O Embaixador In Cariri (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=SvQx5FMEVmE"
+        },
+        {
+          "titulo": "Marília Mendonça - GRAVETO (Todos Os Cantos)",
+          "url": "https://www.youtube.com/watch?v=CKtHg1jBREY"
+        },
+        {
+          "titulo": "Malibu || Não Vai Embora - Dilsinho & Luísa Sonza",
+          "url": "https://www.youtube.com/watch?v=Ds2euWaSH5o"
+        },
+        {
+          "titulo": "VYTINHO NG E MC BIANCA - TUDO NO SIGILO - CLIPE OFICIAL",
+          "url": "https://www.youtube.com/watch?v=9pBws6pwY-E"
+        },
+        {
+          "titulo": "MC Du Black - Gaiola é o Troco (Videoclipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=VvkV_ZxwOig"
+        },
+        {
+          "titulo": "Dua Lipa - Don't Start Now (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=oygrmJFKYZY"
+        },
+        {
+          "titulo": "Pedro Sampaio, Felipe Original, JS o Mão de Ouro - SENTADÃO",
+          "url": "https://www.youtube.com/watch?v=xHhQ9nVKra0"
+        }        
+      ]
+    },
+    {
+      "titulo": "Eletronicas",
+      "cor": "#000000",
+      "videos": [
+        {
+          "titulo": "Meduza, Goodboys - Piece Of Your Heart (Visualizer) ft. Goodboys",
+          "url": "https://www.youtube.com/watch?v=KWjV25q34Hw"
+        },
+        {
+          "titulo": "SAINt JHN - Roses (Imanbek Remix) (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=2zToEPpFEN8"
+        },
+        {
+          "titulo": "Ibiza Summer Mix 2020 🍓 Best Of Tropical Deep House Music Chill Out Mix By Deep Legacy #45",
+          "url": "https://www.youtube.com/watch?v=taq-B4MkPdc"
+        },
+        {
+          "titulo": "Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - Feeling Me #35",
+          "url": "https://www.youtube.com/watch?v=7sbbb7Dt3D8"
+        }, 
+        {
+          "titulo": "SÓ TRACK BOA | AS MAIS TOCADAS DE 2020 | JULHO | SET VINTAGE CULTURE, KVSH & DIRTY PRYDZ",
+          "url": "https://www.youtube.com/watch?v=H1p7QwRKOec"
+        }, 
+        {
+          "titulo": "Baila Conmigo - Dayvi, Victor Cardenas & Kelly Ruiz (Audio Oficial)",
+          "url": "https://www.youtube.com/watch?v=3zFHaijdubY"
+        }, 
+        {
+          "titulo": "Melhores Musicas Eletronicas 2020 🍃 Musica Eletronica Mais Populares Do Youtube 2020 🍃",
+          "url": "https://www.youtube.com/watch?v=iemZbwIbWTE&t=476s"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "Funk",
+      "cor": "#0404B4",
+      "videos": [
+        {
+          "titulo": "MC Niack - Na Raba Toma Tapão (kondzilla.com)",
+          "url": "https://www.youtube.com/watch?v=UR7O8IekguY&list=PLPbMT4wSxX88wrawz8vnouXzCd12jhgOc"
+        },
+        {
+          "titulo": "MC Marks - Deus é por Nós - Dj Muka (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=BM_3d5DE9Ks&list=PLPbMT4wSxX88wrawz8vnouXzCd12jhgOc&index=3"
+        },
+        {
+          "titulo": "MC Paulin da Capital, MC Lipi e DJ GM - Mulher Cativante (kondzilla.com)",
+          "url": "https://www.youtube.com/watch?v=nMGVTKq2Xx8&list=PLPbMT4wSxX88wrawz8vnouXzCd12jhgOc&index=6"
+        },
+        {
+          "titulo": "MC Dricka - E Nós Tem Um Charme Que é Dahora (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=h53iBmEKupg&list=PLPbMT4wSxX88wrawz8vnouXzCd12jhgOc&index=8"
+        },
+        {
+          "titulo": "MC Lipi - Vitória Chegou (Vídeo Clipe Oficial) DJ GM",
+          "url": "https://www.youtube.com/watch?v=RQ3XP78JFM4&list=PLPbMT4wSxX88wrawz8vnouXzCd12jhgOc&index=9"
+        },
+        {
+          "titulo": "Dennis & MC Don Juan - Te Prometo (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=XgmX5xzK8U8"
+        },
+        {
+          "titulo": "Luísa Sonza - BRABA",
+          "url": "https://www.youtube.com/watch?v=ogxUGtlAq18"
+        },
+        {
+          "titulo": "Thiaguinho MT feat Mila e JS O Mão de Ouro - Tudo OK (kondzilla.com) | Official Music Video",
+          "url": "https://www.youtube.com/watch?v=n_Pf1BgHS7c"
+        }
+      ]
+    },
+    {
+      "titulo": "Internacionais",
+      "cor": "#FF0040",
+      "videos": [
+        {
+          "titulo": "Dua Lipa - Break My Heart (Official Video)",
+          "url": "https://www.youtube.com/watch?v=Nj2U6rhnucI"
+        },
+        {
+          "titulo": "Harry Styles - Adore You (Official Video)",
+          "url": "https://www.youtube.com/watch?v=VF-r5TtlT9w"
+        },
+        {
+          "titulo": "Shakira, Anuel AA - Me Gusta (Official Video)",
+          "url": "https://www.youtube.com/watch?v=mf-UJ32PJgU"
+        },
+        {
+          "titulo": "Black Eyed Peas, J Balvin - RITMO (Bad Boys For Life)",
+          "url": "https://www.youtube.com/watch?v=EzKkl64rRbM"
+        },
+        {
+          "titulo": "Daddy Yankee & Snow - Con Calma (Vídeo Oficial)",
+          "url": "https://www.youtube.com/watch?v=DiItGE3eAyQ"
+        },
+        {
+          "titulo": "Ozuna x Wisin - Gistro Amarillo (Video Oficial)",
+          "url": "https://www.youtube.com/watch?v=AUnrTBqZtR0"
+        },
+        {
+          "titulo": "Future - Life Is Good (Official Music Video) ft. Drake",
+          "url": "https://www.youtube.com/watch?v=l0U7SxXHkPY"
+        },
+        {
+          "titulo": "Justin Bieber - Yummy (Official Video)",
+          "url": "https://www.youtube.com/watch?v=8EJ3zbKTWQ8"
+        }
+      ]
+    },
+    {
+      "titulo": "Pagode",
+      "cor": "#FF8000",
+      "videos": [
+        {
+          "titulo": "Vou pro Sereno, Ludmilla - Teu Segredo (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=F68KkgwP5F8"
+        },
+        {
+          "titulo": "Dilsinho - Refém (DVD Terra do Nunca Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=BvalYFjApoY"
+        },
+        {
+          "titulo": "Diogo Nogueira - Pé Na Areia (Ao vivo)",
+          "url": "https://www.youtube.com/watch?v=h8PQQvNn6aI"
+        },
+        {
+          "titulo": "Ferrugem - Distante do seu mundo DVD Chão De Estrelas",
+          "url": "https://www.youtube.com/watch?v=STYjWXre-8g"
+        },
+        {
+          "titulo": "Atitude 67 - Cerveja De Garrafa (Fumaça Que Eu Faço)",
+          "url": "https://www.youtube.com/watch?v=cPjhBow3dLw"
+        },
+        {
+          "titulo": "Sorriso Maroto - Reprise (Ao Vivo) [Clipe Oficial]",
+          "url": "https://www.youtube.com/watch?v=iQT3S7_JcPo"
+        },
+        {
+          "titulo": "Thiaguinho – A Fila Anda (Clipe Oficial) [Álbum: VIBE]",
+          "url": "https://www.youtube.com/watch?v=TMr_83laADw"
+        },
+        {
+          "titulo": "Pixote - Nem de Graça / Saudade Arregaça (Ao Vivo) - DVD Fã de Carteirinha Sunset",
+          "url": "https://www.youtube.com/watch?v=QxamVP2dJCA"
+        }
+      ]
+    },
+    {
+      "titulo": "Sertanejo",
+      "cor": "#04B404",
+      "videos": [
+        {
+          "titulo": "Henrique e Juliano - VOLTA POR BAIXO - DVD Ao Vivo No Ibirapuera",
+          "url": "https://www.youtube.com/watch?v=9Ef-Nmqf7C0"
+        },
+        {
+          "titulo": "Marília Mendonça & Maiara e Maraisa - Quero Você Do Jeito Que Quiser (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=JiuYnJYKLus"
+        },
+        {
+          "titulo": "Lauana Prado - Viva Voz (Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=VTMAhTx1VFY"
+        },
+        {
+          "titulo": "Matheus & Kauan - Litrão (Ao Vivo Em Recife / 2020)",
+          "url": "https://www.youtube.com/watch?v=DfdN9tII0kw"
+        },
+        {
+          "titulo": "Gustavo Mioto - COM OU SEM MIM - DVD Ao Vivo Em Fortaleza",
+          "url": "https://www.youtube.com/watch?v=htc1z4Uv0HA"
+        },
+        {
+          "titulo": "Zé Neto e Cristiano - BARZINHO ALEATÓRIO - DVD Por Mais Beijos Ao Vivo",
+          "url": "https://www.youtube.com/watch?v=hjc1dCyodG4"
+        },
+        {
+          "titulo": "Gusttavo Lima - Saudade Sua (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=HrpBSGaM_tc"
+        },
+        {
+          "titulo": "Jorge & Mateus - CHEIROSA (Vídeo Oficial)",
+          "url": "https://www.youtube.com/watch?v=YZT1U2rlvyM"
+        }
+      ]
+    }
+  ]
+}
